@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <title>
+        Natural House
+    </title>
+</head>
+<body>
+    <div class="header">
+        <h1 id="main_title">
+            natural house
+        </h1>
+        <h3 id="slogan">
+            Make your space feel natural and homey with handmade wooden decor for every style.  New designs and products are added monthly so make sure to check back for your next new stunning decor piece!
+        </h3>
+    </div>
+    <div class="navigation_bar">
+        <ul>
+            <li>
+                Home <!--you are here-->
+            </li>
+            <li>
+                Products
+            </li>
+            <li>
+                Services
+            </li>
+            <li>
+                Requests
+            </li>
+            <li>
+                About
+            </li>
+        </ul>
+    </div>
+    <div>
+        <h2>
+            Featured
+        </h2>
+    </div>
+    <!--pictures of new producdts here-->
+    <!--add comments/titles to new product pictures with links to product page-->
+</body>
+</html>

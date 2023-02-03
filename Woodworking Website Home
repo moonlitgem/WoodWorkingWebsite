@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html>
+<head>
+    <link rel="stylesheet" href="WWWHomeCSS.css">
+    <title>
+        Natural House
+    </title>
+</head>
+<body>
+    <div class="website_header">
+        <h1 id="website_title"> natural home <!--on left corner, bolded--> </h1> 
+        <h4 id="slogan">
+             carved to your tastes
+         </h4>
+        <ul id="nav_bar">
+         <li> <!--semi bolded/normal-->
+             Home 
+         </li>
+         <li>
+             Products
+         </li>
+         <li>
+             Services
+         </li>
+         <li>
+             Requests
+         </li>
+         <li>
+             About
+         </li>
+     </ul>
+     <h5 id="login_su">
+         login | sign up <!--thin and smaller than rest -->
+     </h5>
+     </div>
+    <div>
+        <h2>
+            Featured
+        </h2>
+    </div>
+    <!--pictures of new producdts here-->
+    <!--add comments/titles to new product pictures with links to product page-->
+    <div class="global footer">
+        <h6>
+            contact us
+        </h6>
+        <ul>
+            <li>
+                naturalhome@gmial.com
+            </li>
+            <li>
+                678-313-4378
+            </li>
+            <li>
+                @naturalhome
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
